@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/brocoders-timer/static/css/main.7446044b.chunk.css",
+    "main.js": "/brocoders-timer/static/js/main.96082c91.chunk.js",
+    "main.js.map": "/brocoders-timer/static/js/main.96082c91.chunk.js.map",
+    "runtime~main.js": "/brocoders-timer/static/js/runtime~main.2182f1e0.js",
+    "runtime~main.js.map": "/brocoders-timer/static/js/runtime~main.2182f1e0.js.map",
+    "static/js/2.98ed693e.chunk.js": "/brocoders-timer/static/js/2.98ed693e.chunk.js",
+    "static/js/2.98ed693e.chunk.js.map": "/brocoders-timer/static/js/2.98ed693e.chunk.js.map",
+    "index.html": "/brocoders-timer/index.html",
+    "precache-manifest.e3bda17a436db92ed8c8f822c6dc1c87.js": "/brocoders-timer/precache-manifest.e3bda17a436db92ed8c8f822c6dc1c87.js",
+    "service-worker.js": "/brocoders-timer/service-worker.js",
+    "static/css/main.7446044b.chunk.css.map": "/brocoders-timer/static/css/main.7446044b.chunk.css.map",
+    "static/media/404Error.jpg": "/brocoders-timer/static/media/404Error.45daaab7.jpg"
+  }
+}
